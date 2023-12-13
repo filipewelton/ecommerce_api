@@ -1,0 +1,10 @@
+{
+  "skip_files": [
+    "lib/ecommerce_api_web/telemetry.ex",
+    "test/support/data_case.ex",
+    "lib/ecommerce_api/application.ex",
+    "lib/ecommerce_api_web/templates/error_json.ex",
+    "lib/ecommerce_api_web/controllers/webhooks_controller.ex",
+    "lib/ecommerce_api/stores/store.ex"
+  ]
+}
