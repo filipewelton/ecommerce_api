@@ -9,7 +9,8 @@
 
 Uma API de um E-commerce desenvolvido com o framework Phoenix, Postgres como banco de
 dados, e integração com o Stripe como meio de pagamento. Esta aplicação possuí algumas das
-principais funcionalidades de um E-commerce real. As funcionalidades são as seguintes:
+principais funcionalidades de um E-commerce real. As funcionalidades são descritas por suas
+respectivas rotas;
 
 ### Customers (E-commerce clients)
 
