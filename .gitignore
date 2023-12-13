@@ -2,7 +2,6 @@
 /.elixir_ls
 /.vscode
 /config
-/cover
 /deps/
 
 docker/redis.conf
